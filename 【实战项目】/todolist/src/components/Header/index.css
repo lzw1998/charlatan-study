@@ -1,0 +1,24 @@
+.todo-header {
+  height: 48px;
+  background: #5c70be;
+  border-radius: 8px;
+  padding: 0 12px 0 0;
+  display: flex;
+}
+.todo-header input {
+  flex: 1;
+  border: 0;
+  background: transparent;
+  border: 0;
+  outline: none;
+  color: #fff;
+  font-size: 18px;
+  line-height: 48px;
+  padding: 3px 0 0;
+}
+.todo-header input::placeholder {
+  color:#fff;
+}
+.todo-header:hover{
+  background: #5c70bebb;
+}

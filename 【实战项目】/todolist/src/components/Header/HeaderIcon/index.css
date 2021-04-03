@@ -1,0 +1,10 @@
+.todo-header-icon {
+  height: 100%;
+  display: flex;
+  padding: 0 12px;
+}
+.todo-header-icon img {
+  width: 24px;
+  height: 24px;
+  align-self: center;
+}

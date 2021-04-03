@@ -1,0 +1,18 @@
+.todo-finish-tag {
+  min-height: 32px;
+  background: #5c70bebe;
+  color: #fff;
+  font-size: 14px;
+  padding: 0 8px;
+  display: inline-flex;
+  align-items: center;
+  border-radius: 4px;
+}
+.todo-finish-tag:hover {
+  background: #5468b9;
+}
+.todo-finish-tag img {
+  width: 18px;
+  height: 18px;
+  margin-right: 5px;
+}

@@ -1,0 +1,6 @@
+.todo-list {
+  overflow: auto;
+}
+.todo-list::-webkit-scrollbar{
+  display: none;
+}
